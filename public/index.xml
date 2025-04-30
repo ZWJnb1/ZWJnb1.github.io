@@ -1,33 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>森垚花屿</title>
+    <title>德工你朱哥的个人笔记</title>
     <link>https://ZWJnb1.github.io/</link>
-    <description>Recent content on 森垚花屿</description>
+    <description>Recent content on 德工你朱哥的个人笔记</description>
     <generator>Hugo -- 0.147.0</generator>
     <language>zh</language>
-    <copyright>©2025 森垚花屿</copyright>
-    <lastBuildDate>Wed, 30 Apr 2025 17:21:02 +0800</lastBuildDate>
+    <copyright>©2025 德工你朱哥</copyright>
+    <lastBuildDate>Wed, 30 Apr 2025 21:07:58 +0800</lastBuildDate>
     <atom:link href="https://ZWJnb1.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Post3</title>
+      <title>Cli学习笔记</title>
+      <link>https://ZWJnb1.github.io/post/post4/</link>
+      <pubDate>Wed, 30 Apr 2025 21:07:58 +0800</pubDate>
+      <guid>https://ZWJnb1.github.io/post/post4/</guid>
+      <description>这篇文章主要记录我的cli学习相关内容，先建立此文档，激励自己快速学习cli</description>
+    </item>
+    <item>
+      <title>Post3 嘿嘿</title>
       <link>https://ZWJnb1.github.io/post/post3/</link>
       <pubDate>Wed, 30 Apr 2025 17:21:02 +0800</pubDate>
       <guid>https://ZWJnb1.github.io/post/post3/</guid>
-      <description>&lt;h1 id=&#34;第三篇-图片测试&#34;&gt;第三篇 图片测试&lt;/h1&gt;
-&lt;p&gt;第一张图片：&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;图片1&#34; loading=&#34;lazy&#34; src=&#34;https://ZWJnb1.github.io/images/1.png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;第二张图片,shortcode：&lt;/p&gt;
-&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;https://ZWJnb1.github.io/images/2.png&#34;/&gt; &lt;figcaption&gt;
-            图片2
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;第三张图片，采用theme作者的代码：&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;图片3&#34; loading=&#34;lazy&#34; src=&#34;https://ZWJnb1.github.io/images/3.png#center&#34;&gt;&lt;/p&gt;
-&lt;p&gt;第四章图片，同样来自主题作者的短代码居中法：&lt;/p&gt;
-&lt;p&gt;{{&amp;lt; figure align=center src=&amp;quot;/images/4.png&amp;quot; &amp;gt;}}&lt;/p&gt;</description>
+      <description>这是第三篇文章，学习图片操作。</description>
     </item>
     <item>
       <title>Post2</title>

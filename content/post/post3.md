@@ -1,8 +1,12 @@
-+++
-date = '2025-04-30T17:21:02+08:00'
-draft = false
-title = 'Post3'
-+++
+---
+date: "2025-04-30T17:21:02+08:00"
+draft: false
+title: "Post3 嘿嘿"
+cover:
+  image: "/images/5.jpg" # 指定封面图片路径
+summary: "这是第三篇文章，学习图片操作。"
+---
+
 
 # 第三篇 图片测试
 
@@ -18,7 +22,5 @@ title = 'Post3'
 
 ![图片3](/images/3.png#center)
 
-第四章图片，同样来自主题作者的短代码居中法：
 
-{{</* figure align=center src="/images/4.png" */>}}
 
