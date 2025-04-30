@@ -9,7 +9,7 @@ title = 'Post2'
 
 居中
 
-<center><img src="pics/羊.png" /></center>
+<center><img src="pics/羊.png"></center>
 
 左对齐
 
