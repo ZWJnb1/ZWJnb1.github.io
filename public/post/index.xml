@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>森垚花屿</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on 森垚花屿</description>
+    <title>Posts on 森垚花屿</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on 森垚花屿</description>
     <generator>Hugo -- 0.147.0</generator>
     <language>zh</language>
     <copyright>©2025 森垚花屿</copyright>
     <lastBuildDate>Wed, 30 Apr 2025 13:55:18 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>我的HUGO配置之路</title>
       <link>http://localhost:1313/post/myhugodeployment/</link>
@@ -16,13 +16,6 @@
       <guid>http://localhost:1313/post/myhugodeployment/</guid>
       <description>&lt;h1 id=&#34;部署hugopapermod的心酸血泪史&#34;&gt;部署HUGO+PaperMod的心酸血泪史&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;写作背景：&lt;/strong&gt; 我个人呢没啥背景哈，就是一个热爱各种有趣新鲜事物的普通人，没事在公众号上看到了标题很夸张、极具情绪化的关于介绍HUGO的文章，就受到了情绪感染，脑子一抽，想要自己搞个静态网站写点东西，也是玩过好多自媒体平台了，感觉自己可以搞个网站，畅所欲言，也不用考虑有没有人看，不用管平台审核，什么乱七八糟的挺好。于是一头就扎进来了，开始了一场历时20多个小时，为期两天的磕磕碰碰的部署之旅，中间穿插了失眠、狂躁、无措等各种负能量状态，就这样一段心酸血泪史，难道不值得记录吗？作为我的个人博客开篇第一章，再合适不过了！&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>关于</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>about</description>
     </item>
   </channel>
 </rss>
