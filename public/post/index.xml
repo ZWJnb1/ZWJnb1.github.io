@@ -27,7 +27,7 @@
 &lt;p&gt;第三张图片，采用theme作者的代码：&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&#34;图片3&#34; loading=&#34;lazy&#34; src=&#34;https://ZWJnb1.github.io/images/3.png#center&#34;&gt;&lt;/p&gt;
 &lt;p&gt;第四章图片，同样来自主题作者的短代码居中法：&lt;/p&gt;
-&lt;p&gt;{{&amp;lt; figure align=center src=&amp;quot;/images/4.jpg&amp;quot; &amp;gt;}}&lt;/p&gt;</description>
+&lt;p&gt;{{&amp;lt; figure align=center src=&amp;quot;/images/4.png&amp;quot; &amp;gt;}}&lt;/p&gt;</description>
     </item>
     <item>
       <title>Post2</title>

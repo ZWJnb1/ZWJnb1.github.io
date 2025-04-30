@@ -20,5 +20,5 @@ title = 'Post3'
 
 第四章图片，同样来自主题作者的短代码居中法：
 
-{{</* figure align=center src="/images/4.jpg" */>}}
+{{</* figure align=center src="/images/4.png" */>}}
 
