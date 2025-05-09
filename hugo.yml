@@ -1,6 +1,6 @@
 baseURL: "https://ZWJnb1.github.io/" # 主站的 URL
-title: 德工你朱哥的个人笔记 # 站点标题
-copyright: "[©2025 德工你朱哥](https://ZWJNB1.github.io/)" # 网站的版权声明，通常显示在页脚
+title: 富源多肉站 # 站点标题
+copyright: "[©2025 富源多肉站](https://ZWJNB1.github.io/)" # 网站的版权声明，通常显示在页脚
 theme: PaperMod # 主题
 languageCode: zh-cn # 语言
 
@@ -14,6 +14,9 @@ enableEmoji: true # 允许 emoji
 pygmentsUseClasses: true
 defaultContentLanguage: zh # 顶部首先展示的语言界面
 defaultContentLanguageInSubdir: false # 是否要在地址栏加上默认的语言代码
+ShowBreadCrumbs: true # 是否显示面包屑导航
+ShowToc: true # 是否显示目录
+
 
 languages:
   zh:
@@ -51,6 +54,7 @@ outputs:
     - JSON # necessary for search, 这里的配置修改好之后，一定要重新生成一下
 
 params:
+
   # 搜索
   fuseOpts:
       isCaseSensitive: false # 是否大小写敏感
@@ -60,9 +64,23 @@ params:
       threshold: 0.4
       minMatchCharLength: 0
       # limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
-      keys: ["title", "permalink", "summary", "content"]
+      keys: 
+        - "title"
+        - "permalink"
+        - "summary"
+        - "content"
+
       includeMatches: true
-      
+  # 主页简介
+  homeInfoParams:
+    Title: "欢迎来到富源多肉站" # 主页简介的标题
+    Content: "富源多肉站，是一家深耕多肉植物领域十多年的家族企业，位于中国福建省漳州市龙海县百花村，坐拥百亩生产基地，提供的多肉品种达二百多种，一直以来是本地电商以及花卉绿植店的良好合作伙伴！我们竭诚为您提供质量上乘的多肉产品，稳定的货源是您坚强的后盾！" # 主页简介的内容
+  # 自定义CSS
+  customCSS: 
+   - "assets/css/extended/custom_css1.css" # 自定义 CSS 文件
+
+
+
 markup:
   goldmark:
     renderer:

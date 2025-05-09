@@ -1,0 +1,99 @@
+/* 页脚整体样式 */
+.footer {
+    background-color: #1bc298; /* 浅灰色背景 */
+    color: #FFFFFF; /* 深灰色文字 */
+    padding: 40px 25px; /* 上下内边距40px，左右内边距20px */
+    font-family: 'Arial', sans-serif; /* 字体样式 */
+    text-align: left;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    box-sizing: border-box; 
+}
+
+/* 页脚容器 */
+.footer-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: 0 auto;
+    width: 100%;
+    gap: 35px; /* 设置间距 */
+}
+
+/* 公司信息 */
+.footer-company-info {
+    flex: 1 1 30%;
+    margin-bottom: 20px;
+}
+
+.footer-logo {
+    max-width: 150px;
+    margin-bottom: 10px;
+}
+
+.footer-company-info p {
+    font-size: 14px;
+    line-height: 1.6;
+}
+
+/* 联系方式 */
+.footer-contact {
+    flex: 1 1 30%;
+    margin-bottom: 20px;
+}
+
+.footer-contact h4 {
+    font-size: 16px;
+    margin-bottom: 10px;
+    color: #FFFFFF;
+}
+
+.footer-contact p {
+    font-size: 14px;
+    line-height: 1.6;
+}
+
+.footer-contact a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.footer-contact a:hover {
+    text-decoration: underline;
+}
+
+/* 网站导航 */
+.footer-navigation {
+    flex: 1 1 30%;
+    margin-bottom: 20px;
+}
+
+.footer-navigation h4 {
+    font-size: 16px;
+    margin-bottom: 10px;
+    color: #FFFFFF;
+}
+
+.footer-navigation ul {
+    list-style: none;
+    padding: 10;
+    margin: 10;
+}
+
+.footer-navigation li {
+    margin-bottom: 5px;
+}
+
+.footer-navigation a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.footer-navigation a:hover {
+    text-decoration: underline;
+}
+
+
+

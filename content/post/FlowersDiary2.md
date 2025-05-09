@@ -1,10 +1,10 @@
 ---
-title: "FlowersDiary2-柳叶莲华" # 自动生成标题
+title: "【多肉日记】--柳叶莲华" # 自动生成标题
 date: 2025-05-02T22:02:36+08:00 # 自动生成日期
 draft: false
 cover:
   image: "/images/7.png" # 默认封面图片路径，可修改
-summary: "怎么养好柳叶莲华？看官请进~" # 默认简介
+summary: "45￥" # 默认简介
 ---
 
 # 柳叶莲华种养日记
